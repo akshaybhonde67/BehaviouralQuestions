@@ -17,7 +17,7 @@ I would always like to be in environments that have talented people and are expe
 5. Describe the work environment in which you will most effectively be able to contribute.
 My ideal work environment is one that focuses on teamwork. I like companies like yours that put an effort in getting the group together and making sure everyone is supported. I work best in an environment which has challenging projects and opportunities to learn, and where people are empowered to share their ideas, opinions and viewpoints. <br><br>
 
-6.Tell me about the last conflict you had with someone at work; how did you resolve it?<br>
+6. Tell me about the last conflict you had with someone at work; how did you resolve it?<br>
 I was working as a data analyst on an IT project in a cross functional team, and one team member was constantly late finishing tasks. As his input was crucial to my tasks I approached him about it and he reacted defensively. I kept calm and acknowledged that the deadlines were challenging and asked how I could assist him in improving his performance. He calmed down and told me that he was involved in another project where he had to do tasks that were not in his job description. After a meeting with other project manager, we came to a resolution that alleviated the technician’s workload. For the remainder of the project, that team member delivered great work.<br><br>
 
 7. How would your current boss describe your work and contribution<br>
@@ -31,4 +31,7 @@ When I was a little kid, I used to help my mother in the kitchen. She would alwa
 The ability to absorb memories, knowledge, talent, and ability from others through interaction, understanding, and empathy.
 At the core of this ability is the ability to learn and supernatural part would be how fast I would be able to learn. So Learning is how we become the greatest version of ourselves. It would allow me to ignite positive change in the world and leave a positive impact on our society. <br><br>
 
+10. Tell me about a time that you failed?<br>
+When I first started my career at Mu Sigma as a data analyst, I would find myself falling behind on work due to procrastination. This affected my work, as I was not meeting the standards, and making things harder for my team overall. After speaking with my manager, I realized that my procrastination was a symptom of lack of confidence in my abilities in my role. Upon discovering this, my manager and I decided it would be best if I shadowed other team members to watch how they work and ask questions for a month. I went on to successfully work for that company for almost 16mths and in all my roles since then at various companies, I no longer procrastinate, and regularly review training materials, ask relevant questions and adapt quickly to remain current about my job functions.<br><br>
 
+11. 
