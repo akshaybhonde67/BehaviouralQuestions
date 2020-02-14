@@ -7,6 +7,9 @@ MunichRe is solving problems that have a real world large scale impact.  As we k
 . Why do you want to work here?<br>
 Munich Re uses data analytics to identify solutions for real world problems. Therefore I will get to do meaningful work which will have a larger impact and this will give me immense satisfaction. Munich Re promotes working in multidisciplinary environments, and I have also worked with crossfunctional teams that included Project Manager, UX designer, data scientist, software engineer, and business stakeholder.  I will get to work on a variety of projects and data from different industries. While going through the reviews on glassdoor I came to know that MunichRe encourages the environment where you can try new ideas & approaches so I would have room to grow in technical and/or managerial directions. 
 
+Tell us about a time when you went above and beyond for a project? <br>
+
+
 . Why should we hire you over other candidates ?<br>
 My qualifications and experience in the field of data analytics gives me the necessary skills and abilities to make a meaningful contribution to your company. I can easily explain complex results, metrics in simple words along with visualizations to the clients and make sure they get the desired results. Because I believe as data scientist shoudn't only have technical skills, but good business and communications skills. I understand that this position requires me to work as a teamplayer and build meaningful solutions for real world problems.  As my record indicates, I have made significant contributions to my previous employers and I will be able to bring the same experience to your company. <br><br>
 
