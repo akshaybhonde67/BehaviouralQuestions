@@ -9,6 +9,8 @@ Munich Re uses data analytics to identify solutions for real world problems. The
 
 Tell us about a time when you went above and beyond for a project? <br>
 
+Tell us about a time when you were in a new or unfamiliar situation. What did you do and how did you handle it<br>
+
 
 . Why should we hire you over other candidates ?<br>
 My qualifications and experience in the field of data analytics gives me the necessary skills and abilities to make a meaningful contribution to your company. I can easily explain complex results, metrics in simple words along with visualizations to the clients and make sure they get the desired results. Because I believe as data scientist shoudn't only have technical skills, but good business and communications skills. I understand that this position requires me to work as a teamplayer and build meaningful solutions for real world problems.  As my record indicates, I have made significant contributions to my previous employers and I will be able to bring the same experience to your company. <br><br>
