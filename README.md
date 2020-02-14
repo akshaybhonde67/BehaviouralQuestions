@@ -39,3 +39,30 @@ I have worked on many important projects throughout my career. What’s really c
 
 12. How do you manage your time in a project when the project has a tight deadline?<br>
 I typically aim to tackle the more difficult parts of a project early on because if you wait until the end of a day to tackle the tough parts, you stand the chance of running out of time. I also like to break down larger parts of a project into small chunks—doing so allows me to keep cool and not get overwhelmed while working up against the deadline. Also I like to make small milestones and deadlines for them and keep updating the team when they are achieved. Even if my tasks seemed unachievable, I would buckle down and figure out the best approach to completing the tasks. I would start by organizing the tasks from most important to least, and then I would begin working on the most important task. If there were any tasks I could delegate to other capable individuals, I would not be afraid to ask for assistance.<br><br>
+
+13. What do you consider to have been your biggest failure; why do you consider it as such (what impact it had), and what did you learn from it? <br>
+My greatest failure so far was sticking with my master's degree in Telecommunication past the point when I knew I wasn't interested in it. I graduated from the program but midway I just didn't feel good about it. I had trouble getting a job but I got it eventually because I pursued online courses in computer science and I learnt python programming. This helped me find out my passion and I ended up going back to school to pursue my masters in Computer Science. That delayed the start of my career by two years but I supported myself the whole time and now I love my career path, so the story has a happy ending.<br><br>
+
+14. Tell me about a manager or someone of a senior nature you have worked well with and why? How did they manage or work with you?<br>
+I’ve typically been given a lot of freedom to make decisions and self-manage in my career, which I love. However, in my last job, my boss resigned and a new supervisor came in who had a much more hands-on management style. I was still able to work well under this style of management and ended up getting along great with this new boss.
+
+15. If you could do anything you wanted to do and you were financially secure, what would you do?<br>
+I would buy a private island in Tahiti and spend rest of my life sipping pina colada's with my wife.<br><br>
+
+16. What books are you currently reading/what websites do you like to visit?<br>
+I am reading Rich Dad Poor Dad and its quite good, in the sense that it teaches you to see everything you buy from an asset / liability point of view. <br><br>
+
+17. Describe a situation in which you aspired to reach a goal. What obstacles did you confront along the way? What did you do to overcome them?<br>
+When I first started out in the industry, I did not have a lot of technical knowledge. I thought I would pick it up along the way, but after a month of working at my first job I realized I needed to make some changes if I wanted to be able to progress in my career. That is when I decided to be proactive in continually improving my technical skills. I started pursuing online courses and kept upto date with the latest skills needed to progress in my career. The positive effects started showing in my performance reviews where my managers started appreciating my ideas, work ethics and considered me an integral part of the team. <br><br>
+
+18. What are the biggest ways people waste time on the job? What do you think are the reasons for this?<br>
+I think some of the common reasons would be Cell Phone/Texting, Gossip, The Internet, Social Media and Snack Or Smoke Breaks. I think this is a human tendency and it’s nearly impossible for the team to be productive all of the time but steps can be taken to boost productivity levels in the workplace <br><br>
+
+19. Where do you see yourself in 5 years time?<br>
+Well I’m really excited by this position at Munich Re because in five years, I’d like to be seen as someone with deep expertise in the data science industry, and I know that’s something that I’ll have an opportunity to do here. I’m also really excited to take on more managerial responsibilities in the next few years and potentially even take the lead on some projects. I’ve been lucky enough to work with some amazing managers, and so developing into a great manager myself is something I’m really excited about.<br><br>
+
+20. Could you tell me about a time you lacked the knowledge or skill to complete a task? <br>
+in my role as data scientist intern at Wellio I had to develop an Image Classification pipeline for classifying food recipe images as appealing or not, thus, preventing customer rejection of a recipe due to appearance. At this role the learning curve was very steep as the tech stack being used for the project was Python, Jupyter, Keras, sklearn and tools like Jupyter Notebooks were new, and I had not worked with libraries like scikit-learn, keras in a work environment. As the duration of the internship was 3 mths, my manager & I decided that I should spend a month to get training and familiarity with the tools being used in the project. Also in this Internship, I had to work on the project individually and my only point of contact was my manager. Due to my ability to adapt to new environments and gain new skills easily I was able to complete the project successfully. <br><br>
+
+21. 
+
