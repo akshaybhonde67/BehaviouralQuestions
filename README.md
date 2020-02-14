@@ -11,8 +11,9 @@ Tell us about a time when you went above and beyond for a project? <br>
 
 Tell us about a time when you were in a new or unfamiliar situation. What did you do and how did you handle it<br>
 
-Tell us about the most complex dataset you had ever worked on and identify what programming language you were using. Describe the biggest challenge you came across and how you addressed it.
+Tell us about the most complex dataset you had ever worked on and identify what programming language you were using. Describe the biggest challenge you came across and how you addressed it.<br>
 
+Is there anything else you would like to share with us about your candidacy at this time?<br>
 
 . Why should we hire you over other candidates ?<br>
 My qualifications and experience in the field of data analytics gives me the necessary skills and abilities to make a meaningful contribution to your company. I can easily explain complex results, metrics in simple words along with visualizations to the clients and make sure they get the desired results. Because I believe as data scientist shoudn't only have technical skills, but good business and communications skills. I understand that this position requires me to work as a teamplayer and build meaningful solutions for real world problems.  As my record indicates, I have made significant contributions to my previous employers and I will be able to bring the same experience to your company. <br><br>
