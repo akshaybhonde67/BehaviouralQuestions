@@ -10,6 +10,8 @@ My ideal job role would be where I can leverage my skills and background in data
 . Why do you want to work here?<br>
 Munich Re uses data analytics to identify solutions for real world problems. Therefore I will get to do meaningful work which will have a larger impact and this will give me immense satisfaction. Munich Re promotes working in multidisciplinary environments, and I have also worked with crossfunctional teams that included Project Manager, UX designer, data scientist, software engineer, and business stakeholder.  I will get to work on a variety of projects and data from different industries. While going through the reviews on glassdoor I came to know that MunichRe encourages the environment where you can try new ideas & approaches so I would have room to grow in technical and/or managerial directions. 
 
+Any other information that we should know?<br>
+
 Tell us about a time when you went above and beyond for a project? <br>
 
 Tell us about a time when you were in a new or unfamiliar situation. What did you do and how did you handle it<br>
