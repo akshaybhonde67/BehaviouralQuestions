@@ -1,10 +1,11 @@
 # BehaviouralQuestions
-https://github.com/DreamOfTheRedChamber/behavior-questions-answers#tell-me-about-yourself
-. Tell me about yourself?<br>
+https://github.com/DreamOfTheRedChamber/behavior-questions-answers#tell-me-about-yourself<br>
+Tell me about yourself?<br>
 In my most recent role I worked as a data analyst with Clarity Insights. I have work experience of 4 years in the field of data analytics. During my career I have worked at different stages of the data science pipeline where I identified trends in data, derived insights and turned those into meaningful solutions for business use cases. I pursued my Master’s in Computer Science at Wright State University in Ohio and graduated in Dec 2018. At Clarity Insights, my role was to provide Data & Analytics expertise that resulted in real and measurable business outcomes. I was involved in analyzing business and data requirements, created machine learning models designed to answer our client’s biggest data challenges and worked with cross functional teams to ensure application quality and scalability.<br>
 MunichRe is solving problems that have a real world large scale impact.  As we know data is a key component in solving these problems, I can leverage my skills and background in data analytics to help the team at MunichRe develop reinsurance solutions that are both sustainable and needs-based. I will get an opportunity to do meaningful work that can have a positive impact on people's lives and that will be incredibly satisfying for me.<br><br>
 
-In 150 characters or fewer, tell us what makes you unique. Try to be creative and say something that will catch our eye! *
+In 150 characters or fewer, tell us what makes you unique. Try to be creative and say something that will catch our eye!<br>
+I love a challenge, and as a self-motivated learner, I really enjoy going above and beyond when it comes to tackling new tasks and learning new skills.<br>
 
 Describe your ideal job role<br>
 My ideal job role would be where I can leverage my skills and background in data analytics to help the team at Klik develop solutions that are both sustainable and needs-based. I want  an opportunity to do meaningful work that can have a positive impact on people's lives and that will be incredibly satisfying for me. My ideal work environment is one that focuses on teamwork. I like companies like yours that put an effort in getting the group together and making sure everyone is supported. I work best in an environment which has challenging projects and opportunities to learn, and where people are empowered to share their ideas, opinions and viewpoints.
@@ -12,10 +13,11 @@ My ideal job role would be where I can leverage my skills and background in data
 Why do you want to work with Data?
 A data analyst’s job is to take data and use it to help companies make better business decisions. I’m good with numbers, collecting data, and market research. I love identifying trends in data, deriving insights and turning them into meaningful solutions for business use cases. I chose this role because it encompasses the skills I’m good at, and I find data and marketing research interesting.
 
-. Why do you want to work here?<br>
-Munich Re uses data analytics to identify solutions for real world problems. Therefore I will get to do meaningful work which will have a larger impact and this will give me immense satisfaction. Munich Re promotes working in multidisciplinary environments, and I have also worked with crossfunctional teams that included Project Manager, UX designer, data scientist, software engineer, and business stakeholder.  I will get to work on a variety of projects and data from different industries. While going through the reviews on glassdoor I came to know that MunichRe encourages the environment where you can try new ideas & approaches so I would have room to grow in technical and/or managerial directions. 
+Why do you want to work here?<br>
+Munich Re uses data analytics to identify solutions for real world problems. Therefore I will get to do meaningful work which will have a larger impact and this will give me immense satisfaction. Munich Re promotes working in multidisciplinary environments, and I have also worked with crossfunctional teams that included Project Manager, UX designer, data scientist, software engineer, and business stakeholder.  I will get to work on a variety of projects and data from different industries. While going through the reviews on glassdoor I came to know that MunichRe encourages the environment where you can try new ideas & approaches so I would have room to grow in technical and/or managerial directions. <br>
 
 Any other information that we should know?<br>
+I think we’ve covered most of it, but just to summarize, it sounds like you’re looking for someone who can really hit the ground running. And with my previous experience in the field of data analytics and developing meaningful solutions for business use cases, I think I’d be a great fit. And, of course, I just want to reiterate how excited I am about the position.<br>
 
 Tell us about a time when you went above and beyond for a project? <br>
 
