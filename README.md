@@ -16,7 +16,7 @@ A data analyst’s job is to take data and use it to help companies make better 
 Why do you want to work here?<br>
 Munich Re uses data analytics to identify solutions for real world problems. Therefore I will get to do meaningful work which will have a larger impact and this will give me immense satisfaction. Munich Re promotes working in multidisciplinary environments, and I have also worked with crossfunctional teams that included Project Manager, UX designer, data scientist, software engineer, and business stakeholder.  I will get to work on a variety of projects and data from different industries. While going through the reviews on glassdoor I came to know that MunichRe encourages the environment where you can try new ideas & approaches so I would have room to grow in technical and/or managerial directions. <br>
 
-Any other information that we should know?<br>
+Is there anything else you would like to share with us about your candidacy at this time?<br>
 I think we’ve covered most of it, but just to summarize, it sounds like you’re looking for someone who can really hit the ground running. And with my previous experience in the field of data analytics and developing meaningful solutions for business use cases, I think I’d be a great fit. And, of course, I just want to reiterate how excited I am about the position.<br>
 
 Tell us about a time when you went above and beyond for a project? <br>
@@ -24,8 +24,9 @@ Tell us about a time when you went above and beyond for a project? <br>
 Tell us about a time when you were in a new or unfamiliar situation. What did you do and how did you handle it<br>
 
 Tell us about the most complex dataset you had ever worked on and identify what programming language you were using. Describe the biggest challenge you came across and how you addressed it.<br>
+In the last company I was in, I often worked with large data sets from external suppliers. For example, survey responses for Customer Analytics projects. And that means a large data set with huge sample size. So, to prepare the data for analysis, I’d go through the following steps. First, I’d run predetermined frequencies and queries to check the validity of the data. This helped me pin down various problems, such as missing data, problems with the data type, or skip-pattern errors in the survey data set. I’d check with the supplier, so we can implement the necessary corrections before we move forward with the analysis. Once done, I’d often consult with a Data Engineer to pick the most suitable analysis tool for a data set of this size. Finally, I’d load the data and start my analysis.<br><br>
 
-Is there anything else you would like to share with us about your candidacy at this time?<br>
+
 
 . Why should we hire you over other candidates ?<br>
 My qualifications and experience in the field of data analytics gives me the necessary skills and abilities to make a meaningful contribution to your company. I can easily explain complex results, metrics in simple words along with visualizations to the clients and make sure they get the desired results. Because I believe as data scientist shoudn't only have technical skills, but good business and communications skills. I understand that this position requires me to work as a teamplayer and build meaningful solutions for real world problems.  As my record indicates, I have made significant contributions to my previous employers and I will be able to bring the same experience to your company. <br><br>
